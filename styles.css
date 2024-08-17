@@ -15,4 +15,6 @@ html {
   #menu {
     width: 80%;
     background-color: burlywood;
+    margin-left: auto; /*With left and right set to auto, it will center it on the page*/
+    margin-right: auto;
   }
