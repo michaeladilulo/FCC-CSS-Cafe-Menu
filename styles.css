@@ -26,6 +26,14 @@ html {
     display: inline-block;
   }
 
+  h1, h2 {
+    font-family: Impact;
+  }
+
+  .established {
+    font-style: italic;
+  }
+
   .menu {
     width: 80%;
     background-color: burlywood;
