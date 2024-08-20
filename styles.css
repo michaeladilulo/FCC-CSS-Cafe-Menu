@@ -76,7 +76,7 @@ html {
   }
 
   a:visited {
-    color: grey;
+    color: black;
   }
 
   a:hover {
@@ -84,5 +84,5 @@ html {
   }
 
   a:active {
-    color: #FFFFFF;
+    color: brown;
   }
