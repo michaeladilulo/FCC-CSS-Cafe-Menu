@@ -4,6 +4,10 @@ html {
     font-style: normal;
   }
 
+  hr {
+    height: 3px;
+  }
+
   body {
     background-image: url(./images//coffee\ beans.jpg)
   }
