@@ -11,7 +11,8 @@ html {
   }
 
   body {
-    background-image: url(./images//coffee\ beans.jpg)
+    background-image: url(./images//coffee\ beans.jpg);
+    padding: 20px;
   }
 
   h1, h2, p {
