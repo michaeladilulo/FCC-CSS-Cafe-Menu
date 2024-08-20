@@ -82,3 +82,7 @@ html {
   a:hover {
     color: brown;
   }
+
+  a:active {
+    color: #FFFFFF;
+  }
